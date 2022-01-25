@@ -11,7 +11,7 @@ db.students.insert({ name: "Bumi", home_state: "Illinois", lucky_number: 5, birt
 db.students.insert({ name: "Bumi", home_state: "Illinois", lucky_number: 5, birthday: { month: 03, day: 01, year: 2021 } })
 db.students.insert({ name: "Kya", home_state: "Kansas", lucky_number: 9, birthday: { month: 08, day: 01, year: 2020 } })
 db.students.insert({ name: "John", home_state: "California", lucky_number: 17, birthday: { month: 06, day: 02, year: 1992 } })
-db.students.insert({ name: "Stephen", home_state: "Minnesotta", lucky_number: 3, birthday: { month: 10, day: 03, year: 1991 } })
+db.students.insert({ name: "Stephen", home_state: "Minnesota", lucky_number: 3, birthday: { month: 10, day: 03, year: 1991 } })
 db.students.insert({ name: "SKelly", home_state: "Washington", lucky_number: 11, birthday: { month: 01, day: 01, year: 2000 } })
 
 // Get all students.
